@@ -1,0 +1,1 @@
+Guess Quest! A fully interactive trivia game using JavaFX, featuring user-generated questions and answers. The game includes handcrafted graphics and supports custom music uploads, allowing users to create personalized music trivia challenges. Designed to be both fun and educational, it can also serve as a study tool for learning and memorization
