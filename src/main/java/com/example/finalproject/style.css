@@ -1,0 +1,26 @@
+// testing file only
+// 11.21.25
+
+/* main styles.css */
+
+/* Styling for the button when hovered */
+.custom-button:hover {
+    -fx-text-fill: green; /* Change text color on hover */
+}
+/* Styling for the button when hovered */
+custom-button:hover {
+    -fx-text-fill: gray; /* Change text color on hover */
+}
+/* Styling for the button when focused */
+custom-button:focused {
+    -fx-text-fill: purple; /* Change text color when focused */
+}
+.button {
+    -fx-background-color: red;
+    -fx-text-fill: red;
+}
+.custom {
+    -fx-background-color: red;
+    -fx-text-fill: red;
+}
+
